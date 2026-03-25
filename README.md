@@ -10,7 +10,7 @@
 |---|---|---|---|
 | **Framework** | Next.js (App Router) | 16.1.6 | Framework React hàng đầu, hỗ trợ SSR/SSG/Edge Runtime |
 | **Ngôn ngữ** | TypeScript | 5.x | Type-safe, giảm lỗi runtime |
-| **Database** | PostgreSQL + Prisma ORM | Prisma 6.19.2 | RDBMS mạnh nhất thế giới + ORM type-safe |
+| **Database** | PostgreSQL + Prisma ORM | Prisma 6.19.2 | RDBMS + ORM type-safe |
 | **UI Library** | Shadcn UI + Radix UI | Latest | Accessible, customizable, production-grade |
 | **State Management** | TanStack Query | 5.90+ | Cache, sync, pagination tự động |
 | **Styling** | Tailwind CSS | 4.x | Utility-first, responsive, tree-shaking |
